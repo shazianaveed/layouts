@@ -1,0 +1,40 @@
+.col{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
+.one{
+    background-color: green;
+    height: 80px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+}
+.two{
+    background-color: brown;
+    height: 80px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+}
+.three{
+    background-color: blue;
+    height: 80px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+}
+.four{
+    background-color: aquamarine;
+    height: 80px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+}
+.five{
+    background-color:grey ;
+    height: 80px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+}
